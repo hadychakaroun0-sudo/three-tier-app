@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/login";  // ثابت على localhost
+const API = "https://three-tier-app-xs95.onrender.com/login";
 
 document.getElementById('login-form').addEventListener('submit', async (e) => {
   e.preventDefault();
